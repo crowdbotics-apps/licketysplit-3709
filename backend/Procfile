@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT licketysplit_3709.wsgi:application
